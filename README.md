@@ -1,4 +1,4 @@
 # demo
-this is my first git repo.
-<be>
+This is my first git repo.
+<br>
 Author - Devendra Bele
